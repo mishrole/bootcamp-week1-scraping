@@ -11,6 +11,6 @@
   ],
   "action": {
       "default_popup": "./App/index.html"
-    },
-  "permissions": ["activeTab", "scripting"]
+  },
+  "permissions": ["activeTab", "scripting", "storage"]
 }
